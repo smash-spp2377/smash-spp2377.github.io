@@ -8,7 +8,7 @@ tags:
   - "Project Details"
 ---
 
-![System Diagram](../images/smash-poster-spp2377-p1-kickoff.jpg)
+![System Diagram](../../images/smash-poster-spp2377-p1-kickoff.jpg)
 
 _..the details will be available soon.._
 
