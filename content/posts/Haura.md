@@ -33,6 +33,6 @@ Relevant Literature:
 3. [Data Migration Policies in a Copy-onWrite Tiered Storage Stack - Conception and Implementation](https://parcio.ovgu.de/Thesis+Topics/2022/Data+Migration+Policies+in+a+Copy_on_Write+Tiered+Storage+Stack+_+Conception+and+Implementation-p-274.html)
 4. [Supplementing a Modern Storage Engine with Non-volatile Memory](https://wwwiti.cs.uni-magdeburg.de/iti_db/publikationen/ps/auto/thesisKarim23.pdf)
 
-[Main page](/about#haura)
+[Main page]({{< relref "/about#haura" >}})
 
 

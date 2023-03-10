@@ -40,5 +40,4 @@ menu:
 >
 >[Link to the official page](https://www.dbse.ovgu.de/Mitarbeiter/Assoziierte+Mitarbeiter/Sajad+Karim.html)
 
-[Top](/team#team)
-
+[Top]({{< relref "/team" >}})

@@ -12,6 +12,5 @@ tags:
 
 _..the details will be available soon.._
 
-[Main page](/about#why-smash)
-
+[Main page]({{< relref "/about#why-smash" >}})
 

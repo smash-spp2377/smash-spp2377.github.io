@@ -30,4 +30,5 @@ menu:
 >##### Project Inception
 >August 20 
 
-[Top](/news#2023)
+[Top]({{< relref "/news" >}})
+

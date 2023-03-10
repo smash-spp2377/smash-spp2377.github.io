@@ -17,8 +17,7 @@ menu:
 
 SMASH is part of [DFG Priority Program 2377](http://spp2377.uos.de) and is a joint initiative by the [DBSE](http://dbse.ovgu.de/) and [ParCIO](https://parcio.ovgu.de/) groups at Otto-von-Guericke-Universitat. The core objective of the project is investigating the benefits of a common storage engine that manages a heterogeneous storage landscape, including traditional storage devices and non-volatile memory technologies. It aims to provide a prototypical standalone software library to be used by third-party projects. High-performance computing workflows will be supported through an integration of SMASH into the existing JULEA storage framework. Database systems will be able to use the interface of SMASH directly whenever data is stored or accessed. 
 
-[more..](/posts/what_is_smash/)
-
+[more..]({{< relref "/posts/what_is_smash" >}})
 
 ### Why SMASH?
 
@@ -34,7 +33,7 @@ To help improve things, SMASH will use both old and new technology to create a m
 
 3. Special-purpose solutions: The existing database management systems and file systems are not well-suited to adapting to changes in the data structures, and the kernel-based file systems are particularly difficult to use and expensive to evaluate. This hinders innovation in this area.
 
-[more..](/posts/why_smash/)
+[more..]({{< relref "/posts/why_smash" >}})
 
 ### How SMASH works (a conception)?
 
@@ -63,6 +62,7 @@ SMASH will provide convenient key-value and object interfaces to third-party pro
 
 Haura is a general-purpose and write-optimized tiered storage stack that runs in user space and supports object and key-value interfaces. It has the ability to handle multiple datasets, provides data integrity, and supports advanced features like snapshots, data placement, and fail-over strategies. The core of the engine is a B𝜖-tree which is the sole index structure in the engine. It supports block storage devices, solid-state drives, for instance, and also has the capability to use DRAM as a block storage device. It also offers features like data striping, mirroring, and parity. It was initially built as a key-value storage engine where arbitrary-sized keys and values can be stored.
 
-[more..](/posts/haura/)
+[more..]({{< relref "/posts/haura" >}})
 
-[Top](/about#what_is_smash)
+[Top]({{< relref "/about" >}})
+
