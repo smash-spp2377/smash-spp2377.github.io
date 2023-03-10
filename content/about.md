@@ -19,6 +19,7 @@ SMASH is part of [DFG Priority Program 2377](http://spp2377.uos.de) and is a joi
 
 [more..](posts/what_is_smash/)
 
+[more..]({{< relref "/posts/what_is_smash" >}})
 
 ### Why SMASH?
 
