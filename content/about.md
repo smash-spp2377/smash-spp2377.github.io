@@ -17,7 +17,7 @@ menu:
 
 SMASH is part of [DFG Priority Program 2377](http://spp2377.uos.de) and is a joint initiative by the [DBSE](http://dbse.ovgu.de/) and [ParCIO](https://parcio.ovgu.de/) groups at Otto-von-Guericke-Universitat. The core objective of the project is investigating the benefits of a common storage engine that manages a heterogeneous storage landscape, including traditional storage devices and non-volatile memory technologies. It aims to provide a prototypical standalone software library to be used by third-party projects. High-performance computing workflows will be supported through an integration of SMASH into the existing JULEA storage framework. Database systems will be able to use the interface of SMASH directly whenever data is stored or accessed. 
 
-[more..](/posts/what_is_smash/)
+[more..](posts/what_is_smash/)
 
 
 ### Why SMASH?
