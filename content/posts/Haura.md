@@ -25,7 +25,7 @@ tags:
 > In contrast to the two presented storage stacks later on, this storage stack does not provide a POSIX compatible filesystem interface. A POSIX filesystem has many operations which must be supported and strict semantics regarding atomicity of concurrent reads and writes. Additionally, userspace filesystem implementations are quite slow due to the context switching and mode switching overhead as the kernel has to switch to our userspace filesystem process for each syscall. See [VTZ17] for a detailed performance analysis of FUSE, the userspace filesystem framework used on Linux. Due to the complexity and the performance issues, this storage stack will instead export a key-value store like interface which is still very similar to a filesystem but with a much smaller and cleaner interface. 
 >
 
-
+>[Haura Developer Guide](https://julea-io.github.io/haura/)
 
 Relevant Literature:
 1. [Modern Storage Stack with Key-Value Store Interface and Snapshots Based on Copy-On-Write Be-Trees](https://wr.informatik.uni-hamburg.de/_media/research:theses:felix_wiedemann_modern_storage_stack_with_key_value_store_interface_and_snapshots_based_on_copy_on_write_b%CE%B5_trees.pdf)
