@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = '/smash'
 languageCode = 'en-us'
 title = 'SMASH'
 subtitle = 'A Common Storage engine for Modern Memory and Storage Hierarchies'
