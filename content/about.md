@@ -51,7 +51,7 @@ SMASH's architecture includes several components which allow for access to key-v
 
 SMASH will provide convenient key-value and object interfaces to third-party projects, with the underlying Bϵ-tree spread across NVRAM and different types of SSDs and HDDs. DRAM will be used as a caching layer in either read-only or read-write mode, depending on the actual devices being used.
 
-{{< figure src="/images/smash_system_diagram.jpg" title="" >}}
+{{< figure src="../images/smash_system_diagram.jpg" title="" >}}
 
 {{< rawhtml >}}
 <div style="border-top: 1px solid #ebebeb;">&nbsp</div>
