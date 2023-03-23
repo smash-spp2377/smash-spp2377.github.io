@@ -25,7 +25,7 @@ menu:
 >
 >[Link to the official page](https://www.dbse.ovgu.de/Mitarbeiter/Assoziierte+Mitarbeiter/David+Broneske.html)
 
-{{< figure src="https://parcio.ovgu.de/parcio_media/People/Johannes+W%C3%BCnsche-height-2699-width-1799.jpg" title="Johannes Wünsche (Doctoral Researcher)" height="150" width="120">}}
+{{< figure src="https://parcio.ovgu.de/parcio_media/People/Johannes+W%C3%BCnsche-height-2699-width-1799.jpg" title="M.Sc. Johannes Wünsche" height="150" width="120">}}
 > 
 >[Link to the official page](https://parcio.ovgu.de/People/Johannes+W%C3%BCnsche.html)
 
