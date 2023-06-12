@@ -1,7 +1,6 @@
 ---
 title: Team
-description: Browse this FAQ page to find answers to frequently asked questions that have not been covered elsewhere in
-  the documentation.
+description: This page contains the details regarding the team.
 date: 2022-01-24T14:00:00.000Z
 authorbox: false
 sidebar: false
