@@ -14,6 +14,6 @@ Of course, there is a variety of benchmarks already available with varying end g
 
 The agenda of this mini-workshop is rather special because it starts with a preparation phase before the in-person workshop. In the preparation phase, we ask you to create together with us a knowledge base of existing benchmarks. Afterward, we structure the material and distribute the presentations about benchmarks for the mini-workshop among the participants. After some presentation slots, we aim to get our hands dirty with conceptualizing or, at best, implementing the benchmark suite.
 
-The workshop will take place in Magdeburg from 6th to 7th of July 2023 as two half-day workshop days. The rationale behind this is that, in the evening of the first day, we can engage in implementation activities (similar to a hackathon). 
+The workshop will take place in Magdeburg from 6th to 7th of July 2023 as two half-day workshop days. The rationale behind this is that, in the evening of the first day, we can engage in implementation activities (similar to a hackathon).
 
 [more..](https://spp2377-git.uos.de/meetings/2023/mini-workshop-on-a-benchmark-suite-for-data-placement-in-operating-systems)
