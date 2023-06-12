@@ -1,5 +1,5 @@
 ---
-title: Team
+title: 
 description: This page contains the details regarding the team.
 date: 2022-01-24T14:00:00.000Z
 authorbox: false
