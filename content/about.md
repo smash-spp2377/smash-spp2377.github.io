@@ -64,7 +64,7 @@ Haura is a general-purpose and write-optimized tiered storage stack that runs in
 
 [more..]({{< relref "/posts/haura" >}})
 
-##### Work In Progress (Recent Activities)
+### Work In Progress (Recent Activities)
 The team meets several times a month to discuss the project and its progress. The minutes of the meetings and the other related work, proposals to design and data structures, for instance, are recorded in different wiki pages under a Git project. Please check this [link](https://code.ovgu.de/fin-parcio/projects/smash/-/wikis/home/?target=_blank) for more details.
 
 
