@@ -33,7 +33,7 @@ To help improve things, SMASH will use both old and new technology to create a m
 
 3. Special-purpose solutions: The existing database management systems and file systems are not well-suited to adapting to changes in the data structures, and the kernel-based file systems are particularly difficult to use and expensive to evaluate. This hinders innovation in this area.
 
-[more..]({{< relref "/posts/why_smash" >}})
+[Poster]({{< relref "/posts/why_smash" >}})
 
 ### How SMASH works (a conception)?
 
