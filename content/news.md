@@ -15,6 +15,18 @@ menu:
 
 #### 2023
 
+>##### Our team is organizing a mini-workshop with the topic "**A Benchmark Suite for Data Placement in Operating Systems**" [more..]([{{< relref "/posts/Workshop_GVDB23" >}}](https://spp2377-git.uos.de/meetings/2023/mini-workshop-on-a-benchmark-suite-for-data-placement-in-operating-systems))
+>July 07
+
+>##### Our paper titled "**Assessing Non-volatile Memory in Modern Heterogeneous Storage Landscape using aWrite-optimized Storage Stack**" has been accepted at the [34th workshop on basics of database systems (Grundlage von Datenbanken)](https://gvdb23.informatik.uni-stuttgart.de/) [more..]({{< relref "/posts/Workshop_GVDB23" >}})
+>May 09
+
+>##### Our paper titled "**Intelligent Data Migration Policies in a Write-Optimized Copy-on-Write Tiered Storage Stack**" has been accepted at [CHEOPS '23: Proceedings of the 3rd Workshop on Challenges and Opportunities of Efficient and Performant Storage Systems](https://cheops-workshop.github.io/) [more..]({{< relref "/posts/CHEOPS_Workshop_at_EuroSys_2023" >}})
+>March 21
+
+>##### Sajad Karim joined the team!
+>February 01
+
 #### 2022
 
 >##### Johannes Wünsche joined the team!
