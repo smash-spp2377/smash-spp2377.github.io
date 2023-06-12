@@ -1,6 +1,6 @@
 ---
 title:
-description: 
+description: This page contains all the news-related content.
 lead:
 date: 2022-01-24T14:00:00.000Z
 authorbox: false
