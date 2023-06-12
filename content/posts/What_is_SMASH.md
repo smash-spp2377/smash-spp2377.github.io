@@ -1,6 +1,6 @@
 ---
 title: "What is SMASH"
-date: 2022-12-01T12:16:16+01:00
+date: 2022-11-01T12:16:16+01:00
 draft: false
 sidebar: true
 pager: false
