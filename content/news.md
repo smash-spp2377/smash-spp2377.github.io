@@ -15,7 +15,7 @@ menu:
 
 #### 2023
 
->##### Our team is organizing a mini-workshop with the topic "**A Benchmark Suite for Data Placement in Operating Systems**" [more..]({{< relref "/posts/mini-workshop_2023/" >}})
+>##### Our team is organizing a mini-workshop with the topic "**A Benchmark Suite for Data Placement in Operating Systems**" 
 >May 24
 
 >##### Our paper titled "**Assessing Non-volatile Memory in Modern Heterogeneous Storage Landscape using aWrite-optimized Storage Stack**" has been accepted at the [34th workshop on basics of database systems (Grundlage von Datenbanken)](https://gvdb23.informatik.uni-stuttgart.de/) [more..]({{< relref "/posts/Workshop_GVDB23" >}})
