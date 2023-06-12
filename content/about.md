@@ -15,7 +15,7 @@ menu:
 
 ### What is SMASH?
 
-SMASH is part of [DFG Priority Program 2377](http://spp2377.uos.de) and is a joint initiative by the [DBSE](http://dbse.ovgu.de/) and [ParCIO](https://parcio.ovgu.de/) groups at Otto-von-Guericke-Universitat. The core objective of the project is investigating the benefits of a common storage engine that manages a heterogeneous storage landscape, including traditional storage devices and non-volatile memory technologies. It aims to provide a prototypical standalone software library to be used by third-party projects. High-performance computing workflows will be supported through an integration of SMASH into the existing JULEA storage framework. Database systems will be able to use the interface of SMASH directly whenever data is stored or accessed. 
+SMASH is part of [DFG Priority Program 2377](http://spp2377.uos.de) and is a joint initiative by the [DBSE](http://dbse.ovgu.de/) and [ParCIO](https://parcio.ovgu.de/) groups at Otto-von-Guericke-Universitat. The core objective of the project is to investigate the benefits of a common storage engine that manages a heterogeneous storage landscape, including traditional storage devices and non-volatile memory technologies. It aims to provide a prototypical standalone software library to be used by third-party projects. High-performance computing workflows will be supported through the integration of SMASH into the existing JULEA storage framework. Database systems will be able to use the interface of SMASH directly whenever data is stored or accessed. 
 
 [more..]({{< relref "/posts/what_is_smash" >}})
 
@@ -39,7 +39,7 @@ To help improve things, SMASH will use both old and new technology to create a m
 
 SMASH aims to address the presented main issues by focusing on the following objectives:
 
-> Our team aim designing a storage engine that will make use of new technology to improve performance and solve inconsistency and heterogeneity problems in current systems. They will also use NVRAM to cache data, in the event of a crash or power loss. They will also use persistent long-term storage, such as NVMe and SATA SSDs, and different types of HDDs. Because NVRAM has higher latencies than traditional DRAM, they will have to take into account potential performance problems.
+> Our team aims to design a storage engine that will make use of new technology to improve performance and solve inconsistency and heterogeneity problems in current systems. They will also use NVRAM to cache data, in the event of a crash or power loss. They will also use persistent long-term storage, such as NVMe and SATA SSDs, and different types of HDDs. Because NVRAM has higher latencies than traditional DRAM, they will have to take into account potential performance problems.
 
 > The team is investigating ways to natively support data transformations, as data volumes are becoming increasingly problematic. This is important as transformations can change data offsets, which can impact the accuracy of data storage. Additionally, modern storage hardware can be used to accelerate data transformations, which can help reduce the time it takes to process data.
 
