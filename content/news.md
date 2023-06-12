@@ -15,7 +15,7 @@ menu:
 
 #### 2023
 
->##### Our team is organizing a mini-workshop with the topic "**A Benchmark Suite for Data Placement in Operating Systems**" [more..](https://spp2377-git.uos.de/meetings/2023/mini-workshop-on-a-benchmark-suite-for-data-placement-in-operating-systems))
+>##### Our team is organizing a mini-workshop with the topic "**A Benchmark Suite for Data Placement in Operating Systems**" [more..](https://spp2377-git.uos.de/meetings/2023/mini-workshop-on-a-benchmark-suite-for-data-placement-in-operating-systems)
 >July 07
 
 >##### Our paper titled "**Assessing Non-volatile Memory in Modern Heterogeneous Storage Landscape using aWrite-optimized Storage Stack**" has been accepted at the [34th workshop on basics of database systems (Grundlage von Datenbanken)](https://gvdb23.informatik.uni-stuttgart.de/) [more..]({{< relref "/posts/Workshop_GVDB23" >}})
