@@ -21,12 +21,31 @@ Please enter your name in the following poll such that we have a final list of p
 The material for the Mini-Workshop can be found under the SPP’s Git. You can find the collected benchmarks at this [link](https://spp2377-git.uos.de/meetings/2023/mini-workshop-on-a-benchmark-suite-for-data-placement-in-operating-systems/-/wikis/list-of-benchmarks)
 
 The benchmarks have also been distributed among the groups for presentation inside the wiki. Please prepare a 5-10 minutes presentation per benchmark. To already come to a common characterization of the benchmarks, please report on the following points for each benchmark:
-•	application domain
-•	metrics (latency, throughput, energy consumption, …)
-•	read/write/update ratio
-•	access granularity/unit (key-value pairs, blocks, …)
-•	access patterns (random reads, sequential writes, …  if identifiable)
-•	data size (at best differentiation between working memory and persistent storage)
-•	flexibility of workload characteristics (predefined query templates, selectivity, ...)
+- application domain
+-	metrics (latency, throughput, energy consumption, …)
+-	read/write/update ratio
+-	access granularity/unit (key-value pairs, blocks, …)
+-	access patterns (random reads, sequential writes, …  if identifiable)
+-	data size (at best differentiation between working memory and persistent storage)
+-	flexibility of workload characteristics (predefined query templates, selectivity, ...)
+
+Finally, a rough schedule for the meeting:
+
+**Thursday 6th** 
+- 1pm 	Welcoming Words
+- 1-5pm	Benchmark Presentations (10 mins each) & Consolidation (incl. Ad-Hoc Breaks)
+  - After each 3-4 talks, we consolidate the characteristics of the benchmarks in an interactive phase
+- 5-6pm	Buffer+Wrap-Up of the First Day
+- 7pm	Get Together at Local Restaurant
+  - https://qilin-md.de (Reserved for Michael Kuhn)
+
+**Friday 7th**
+- 9-10am	Conceptualizing a Common Benchmark
+  - Identifying common interfaces for a set of benchmarks, mapping benchmarks with the requirements of the projects
+- 10-12am	Hackathon (BYOD!) 
+  - We plan to do first implementation tasks on-site
+- 12-1pm	Discussion on Paper Ideas
+  - Planning how to proceed (discussing option of a survey paper or a common benchmark paper)
+
 
 [more..](https://spp2377-git.uos.de/meetings/2023/mini-workshop-on-a-benchmark-suite-for-data-placement-in-operating-systems)
