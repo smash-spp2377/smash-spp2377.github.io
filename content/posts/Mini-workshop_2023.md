@@ -14,6 +14,19 @@ Of course, there is a variety of benchmarks already available with varying end g
 
 The agenda of this mini-workshop is rather special because it starts with a preparation phase before the in-person workshop. In the preparation phase, we ask you to create together with us a knowledge base of existing benchmarks. Afterward, we structure the material and distribute the presentations about benchmarks for the mini-workshop among the participants. After some presentation slots, we aim to get our hands dirty with conceptualizing or, at best, implementing the benchmark suite.
 
-The workshop will take place in Magdeburg from 6th to 7th of July 2023 as two half-day workshop days. The rationale behind this is that, in the evening of the first day, we can engage in implementation activities (similar to a hackathon).
+The workshop will take place from the 6th of July, 1pm until the 7th of July, 2pm. The location is Building 29 (Fakultät für Informatik) at Otto-von-Guericke University, Magdeburg in Room 301: [maps.google.com](https://goo.gl/maps/XV6PHpXRK3cHajpz5). You will find hotels nearby the university or the central station.
+
+Please enter your name in the following poll such that we have a final list of participants latest by the 23rd of June. [Link to the poll](https://terminplaner6.dfn.de/p/dc1b3eedabefefd6aa0c00610f40eefa-282462)
+
+The material for the Mini-Workshop can be found under the SPP’s Git. You can find the collected benchmarks at this [link](https://spp2377-git.uos.de/meetings/2023/mini-workshop-on-a-benchmark-suite-for-data-placement-in-operating-systems/-/wikis/list-of-benchmarks)
+
+The benchmarks have also been distributed among the groups for presentation inside the wiki. Please prepare a 5-10 minutes presentation per benchmark. To already come to a common characterization of the benchmarks, please report on the following points for each benchmark:
+•	application domain
+•	metrics (latency, throughput, energy consumption, …)
+•	read/write/update ratio
+•	access granularity/unit (key-value pairs, blocks, …)
+•	access patterns (random reads, sequential writes, …  if identifiable)
+•	data size (at best differentiation between working memory and persistent storage)
+•	flexibility of workload characteristics (predefined query templates, selectivity, ...)
 
 [more..](https://spp2377-git.uos.de/meetings/2023/mini-workshop-on-a-benchmark-suite-for-data-placement-in-operating-systems)
