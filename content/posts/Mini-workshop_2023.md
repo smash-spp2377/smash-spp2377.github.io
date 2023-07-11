@@ -44,3 +44,5 @@ Finally, a rough schedule for the meeting:
   - We plan to do first implementation tasks on-site
 - 12-1pm	Discussion on Paper Ideas
   - Planning how to proceed (discussing option of a survey paper or a common benchmark paper)
+
+[more...](https://spp2377-git.uos.de/meetings/2023/mini-workshop-on-a-benchmark-suite-for-data-placement-in-operating-systems/)
