@@ -52,4 +52,4 @@ We thank all the participants for attending the workshop and for making it a pro
 - [Discussion](https://spp2377-git.uos.de/meetings/2023/mini-workshop-on-a-benchmark-suite-for-data-placement-in-operating-systems/-/tree/main/BreakOut-Discussion)
 - [Boards](https://spp2377-git.uos.de/meetings/2023/mini-workshop-on-a-benchmark-suite-for-data-placement-in-operating-systems/-/tree/main/Characterizations)
 
-![Group Photo]((../../images/mini_workshop_23_group_photo.jpeg)) 
+![Group Photo](../../images/mini_workshop_23_group_photo.jpeg)
