@@ -45,4 +45,11 @@ Finally, a rough schedule for the meeting:
 - 12-1pm	Discussion on Paper Ideas
   - Planning how to proceed (discussing option of a survey paper or a common benchmark paper)
 
-[more...](https://spp2377-git.uos.de/meetings/2023/mini-workshop-on-a-benchmark-suite-for-data-placement-in-operating-systems/)
+---
+
+We thank all the participants for attending the workshop and for making it a productive one. The slides and snapsots of the boards are placed in the groups SPP Git's repository.
+- [Slides](https://spp2377-git.uos.de/meetings/2023/mini-workshop-on-a-benchmark-suite-for-data-placement-in-operating-systems/-/tree/main/BenchmarkIntros)
+- [Discussion](https://spp2377-git.uos.de/meetings/2023/mini-workshop-on-a-benchmark-suite-for-data-placement-in-operating-systems/-/tree/main/BreakOut-Discussion)
+- [Boards](https://spp2377-git.uos.de/meetings/2023/mini-workshop-on-a-benchmark-suite-for-data-placement-in-operating-systems/-/tree/main/Characterizations)
+
+![Group Photo]((../../images/mini_workshop_23_group_photo.jpeg)) 
