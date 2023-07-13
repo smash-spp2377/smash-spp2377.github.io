@@ -15,6 +15,13 @@ menu:
 
 #### 2023
 
+>##### The SPP-hikers Guide to Memory Benchmarks - 1st Meeting 
+>Our first meeting to distill the findings from the workshop into a paper "The SPP-hikers Guide to Memory Benchmarks" will be held on July 24, 2023. [more..]({{< relref "/posts/mini-workshop_2023_followup_meeting_1" >}})
+>
+>The details of the meeting will be shared with the participants of the [workshop]({{< relref "/posts/Mini-workshop_2023" >}}) via their registered email addresses.
+>
+>July 11
+
 >##### Our team is organizing a mini-workshop with the topic "**A Benchmark Suite for Data Placement in Operating Systems**" [more..]({{< relref "/posts/Mini-workshop_2023" >}})
 >May 24
 
