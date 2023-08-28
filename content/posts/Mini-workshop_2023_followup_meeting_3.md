@@ -1,6 +1,6 @@
 ---
 title: "The SPP-hikers Guide to Memory Benchmarks - 3rd Meeting"
-date: 2023-08-29T19:00:00+01:00
+date: 2023-08-28T19:00:00+01:00
 draft: false
 sidebar: false
 pager: false
