@@ -10,7 +10,7 @@ tags:
 
 The thried meeting to distill the findings from the workshop into a paper *The SPP-hikers Guide to Memory Benchmarks* - the idea from _Timo Hönig_ and _Sven Köhler_ (Memento) - will be held on September 22, 2023.
 
-The details of the meeting will be shared with the participants via their registered email addresses. 
+The details of the meeting will be shared with the participants via their registered email addresses.
 
 ---
 
