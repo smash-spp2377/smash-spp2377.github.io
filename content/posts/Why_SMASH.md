@@ -8,7 +8,7 @@ tags:
   - "Project Details"
 ---
 
-![System Diagram](../../images/smash-poster-spp2377-p1-kickoff.jpg)
+![System Diagram](../../images/SPP_Kickoff_SMASH_Poster_Annual_Meeting_2023.pdf)
 
 [Main page]({{< relref "/about#why-smash" >}})
 
