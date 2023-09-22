@@ -25,7 +25,7 @@ It aims to provide a prototypical standalone software library to be used by thir
 </td>
 </tr>
   <tr>
-<td style="border: 0px solid #000000;">
+<td colspan="3" style="border: 0px solid #000000;">
 {{< figure src="./images/dfg_logo_schriftzug_blau_foerderung_en.gif" height="260" width="800">}}
 </td>  
 </tr>
