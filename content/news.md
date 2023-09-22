@@ -36,6 +36,13 @@ menu:
 >
 >July 11
 
+>##### SPP 2377 Annual Meeting 2023 
+>The annual meeting 2023 will be held at Otto-von-Guericke-Universität in Magdeburg.
+>
+>The details of the meeting can be found at this [link](https://spp2377.uos.de/events/event/spp-2377-annual-meeting-2023/).
+>
+>June 21
+
 >##### Our team is organizing a mini-workshop with the topic "**A Benchmark Suite for Data Placement in Operating Systems**" [more..]({{< relref "/posts/Mini-workshop_2023" >}})
 >May 24
 
