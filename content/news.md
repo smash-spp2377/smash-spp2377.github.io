@@ -16,7 +16,7 @@ menu:
 #### 2023
 
 >##### The SPP-hikers Guide to Memory Benchmarks - 4th Meeting 
->The fourth meeting to distill the findings from the workshop into a paper "The SPP-hikers Guide to Memory Benchmarks" will be held on October 17, 2023. [more..]({{< relref "/posts/mini-workshop_2023_followup_meeting_3" >}})
+>The fourth meeting to distill the findings from the workshop into a paper "The SPP-hikers Guide to Memory Benchmarks" will be held on October 17, 2023. [more..]({{< relref "/posts/mini-workshop_2023_followup_meeting_4" >}})
 >
 >The details of the meeting will be shared with the participants of the [workshop]({{< relref "/posts/Mini-workshop_2023" >}}) via their registered email addresses.
 >
