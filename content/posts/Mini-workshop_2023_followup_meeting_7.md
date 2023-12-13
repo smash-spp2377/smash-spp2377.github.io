@@ -8,7 +8,7 @@ tags:
   - "Workshops"
 ---
 
-Our sixth meeting to distill the findings from the workshop into a paper will be held on December 12, 2023.
+Our seventh meeting to distill the findings from the workshop into a paper will be held on December 12, 2023.
 
 The details of the meeting will be shared with the participants via their registered email addresses.
 
