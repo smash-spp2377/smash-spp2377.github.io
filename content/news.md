@@ -90,6 +90,13 @@ menu:
 >
 >December 12
 
+>##### TOS (Transactions on Storage) - Accept Decision on (SI Abstract)
+>Our manuscript entitled "NVM in Data Storage: A Post-Optane Future" which we had submitted as an abstract to the Transactions on Storage, Special Issue titled “Past, Present, and Future of Storage” has been reviewed.  
+>The reviewer(s) have recommended inviting us to submit a full paper, which will show up as a request for major revision of our abstract.
+>[more...]({{< relref "/posts/tos_special_edition_2023" >}})
+>
+>November 30
+
 >##### The SPP-hikers Guide to Memory Benchmarks - 7th (Follow-up) Meeting 
 >The seventh follow-up meeting to distill the findings from the workshop into a paper "The SPP-hikers Guide to Memory Benchmarks" will be held on December 12, 2023. [more..]({{< relref "/posts/mini-workshop_2023_followup_meeting_7" >}})
 >
