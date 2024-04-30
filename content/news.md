@@ -29,6 +29,9 @@ menu:
 >
 >April 17
 
+>##### Our paper titled "**A Design Proposal for a Unified B-epsilon-Tree Embracing**" has been accepted at the [35th GI-Workshop on Foundations of Databases, May 22-24, 2024, Herdecke, Germany]([https://gvdb23.informatik.uni-stuttgart.de/](https://gvdb24.fernuni-hagen.de/)) [more..]({{< relref "/posts/Workshop_GVDB23" >}})
+>April 09
+
 >##### The SPP-hikers Guide to Memory Benchmarks - 15th (Follow-up) Meeting 
 >The tenth follow-up meeting to distill the findings from the workshop into a paper "The SPP-hikers Guide to Memory Benchmarks" will be held on April 16, 2024. [more..]({{< relref "/posts/mini-workshop_2023_followup_meeting_15" >}})
 >
@@ -146,7 +149,7 @@ menu:
 >##### Our team is organizing a mini-workshop with the topic "**A Benchmark Suite for Data Placement in Operating Systems**" [more..]({{< relref "/posts/Mini-workshop_2023" >}})
 >May 24
 
->##### Our paper titled "**Assessing Non-volatile Memory in Modern Heterogeneous Storage Landscape using aWrite-optimized Storage Stack**" has been accepted at the [34th workshop on basics of database systems (Grundlage von Datenbanken)](https://gvdb23.informatik.uni-stuttgart.de/) [more..]({{< relref "/posts/Workshop_GVDB23" >}})
+>##### Our paper titled "**Assessing Non-volatile Memory in Modern Heterogeneous Storage Landscape using a Write-optimized Storage Stack**" has been accepted at the [34th workshop on basics of database systems (Grundlage von Datenbanken)](https://gvdb23.informatik.uni-stuttgart.de/) [more..]({{< relref "/posts/Workshop_GVDB23" >}})
 >May 09
 
 >##### Our paper titled "**Intelligent Data Migration Policies in a Write-Optimized Copy-on-Write Tiered Storage Stack**" has been accepted at [CHEOPS '23: Proceedings of the 3rd Workshop on Challenges and Opportunities of Efficient and Performant Storage Systems](https://cheops-workshop.github.io/) [more..]({{< relref "/posts/CHEOPS_Workshop_at_EuroSys_2023" >}})
