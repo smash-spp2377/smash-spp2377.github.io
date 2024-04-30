@@ -29,7 +29,7 @@ menu:
 >
 >April 17
 
->##### Our paper titled "**A Design Proposal for a Unified B-epsilon-Tree Embracing**" has been accepted at the [35th GI-Workshop on Foundations of Databases, May 22-24, 2024, Herdecke, Germany](https://gvdb24.fernuni-hagen.de/) [more..]({{< relref "/posts/Workshop_GVDB24" >}})
+>##### Our paper titled "**A Design Proposal for a Unified B-epsilon-Tree: Embracing NVM in Memory Hierarchies**" has been accepted at the [35th GI-Workshop on Foundations of Databases, May 22-24, 2024, Herdecke, Germany](https://gvdb24.fernuni-hagen.de/) [more..]({{< relref "/posts/Workshop_GVDB24" >}})
 >April 09
 
 >##### The SPP-hikers Guide to Memory Benchmarks - 15th (Follow-up) Meeting 
