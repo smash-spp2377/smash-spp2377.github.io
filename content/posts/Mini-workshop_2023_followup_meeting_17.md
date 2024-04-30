@@ -1,6 +1,6 @@
 ---
 title: "The SPP-hikers Guide to Memory Benchmarks - 17th (Follow-up) Meeting"
-date: 2024-04-07T19:00:00+01:00
+date: 2024-04-17T20:00:00+01:00
 draft: false
 sidebar: false
 pager: false
