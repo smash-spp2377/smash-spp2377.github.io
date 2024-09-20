@@ -8,7 +8,7 @@ tags:
   - "Workshops"
 ---
 
-Our seventeenth to distill the findings from the workshop into a paper will be held on May 14, 2024.
+Our seventeenth meeting to distill the findings from the workshop into a paper will be held on May 14, 2024.
 
 The details of the meeting will be shared with the participants via their registered email addresses.
 
