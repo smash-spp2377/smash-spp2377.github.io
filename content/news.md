@@ -15,6 +15,69 @@ menu:
 
 #### 2024
 
+>##### The SPP-hikers Guide to Memory Benchmarks - 27th (Follow-up) Meeting 
+>The 27<sup>th<sup> follow-up meeting to distill the findings from the workshop into a paper "The SPP-hikers Guide to Memory Benchmarks" will be held on October 01, 2024. [more..]({{< relref "/posts/mini-workshop_2023_followup_meeting_27" >}})
+>
+>The details of the meeting will be shared with the participants of the [workshop]({{< relref "/posts/Mini-workshop_2023" >}}) via their registered email addresses.
+>
+>September 19
+
+>##### The SPP-hikers Guide to Memory Benchmarks - 26th (Follow-up) Meeting 
+>The 26<sup>th<sup> follow-up meeting to distill the findings from the workshop into a paper "The SPP-hikers Guide to Memory Benchmarks" will be held on September 18, 2024. This time, we shall meet in person after the Annual Meeting event in Osnabrück 2024. [more..]({{< relref "/posts/mini-workshop_2023_followup_meeting_26" >}})
+>
+>The details of the meeting will be shared with the participants of the [workshop]({{< relref "/posts/Mini-workshop_2023" >}}) via their registered email addresses.
+>
+>September 03
+
+>##### The SPP-hikers Guide to Memory Benchmarks - 25th (Follow-up) Meeting 
+>The 25<sup>th<sup> follow-up meeting to distill the findings from the workshop into a paper "The SPP-hikers Guide to Memory Benchmarks" will be held on September 03, 2024. [more..]({{< relref "/posts/mini-workshop_2023_followup_meeting_25" >}})
+>
+>The details of the meeting will be shared with the participants of the [workshop]({{< relref "/posts/Mini-workshop_2023" >}}) via their registered email addresses.
+>
+>August 20
+
+>##### The SPP-hikers Guide to Memory Benchmarks - 24th (Follow-up) Meeting 
+>The 24<sup>th<sup> follow-up meeting to distill the findings from the workshop into a paper "The SPP-hikers Guide to Memory Benchmarks" will be held on August 20, 2024. [more..]({{< relref "/posts/mini-workshop_2023_followup_meeting_24" >}})
+>
+>The details of the meeting will be shared with the participants of the [workshop]({{< relref "/posts/Mini-workshop_2023" >}}) via their registered email addresses.
+>
+>August 06
+
+>##### The SPP-hikers Guide to Memory Benchmarks - 23rd (Follow-up) Meeting 
+>The 23<sup>rd<sup> follow-up meeting to distill the findings from the workshop into a paper "The SPP-hikers Guide to Memory Benchmarks" will be held on August 06, 2024. [more..]({{< relref "/posts/mini-workshop_2023_followup_meeting_23" >}})
+>
+>The details of the meeting will be shared with the participants of the [workshop]({{< relref "/posts/Mini-workshop_2023" >}}) via their registered email addresses.
+>
+>July 23
+
+>##### The SPP-hikers Guide to Memory Benchmarks - 22nd (Follow-up) Meeting 
+>The 22<sup>nd<sup> follow-up meeting to distill the findings from the workshop into a paper "The SPP-hikers Guide to Memory Benchmarks" will be held on July 23, 2024. [more..]({{< relref "/posts/mini-workshop_2023_followup_meeting_22" >}})
+>
+>The details of the meeting will be shared with the participants of the [workshop]({{< relref "/posts/Mini-workshop_2023" >}}) via their registered email addresses.
+>
+>July 09
+
+>##### The SPP-hikers Guide to Memory Benchmarks - 21st (Follow-up) Meeting 
+>The 21<sup>st<sup> follow-up meeting to distill the findings from the workshop into a paper "The SPP-hikers Guide to Memory Benchmarks" will be held on July 09, 2024. [more..]({{< relref "/posts/mini-workshop_2023_followup_meeting_21" >}})
+>
+>The details of the meeting will be shared with the participants of the [workshop]({{< relref "/posts/Mini-workshop_2023" >}}) via their registered email addresses.
+>
+>June 25
+
+>##### The SPP-hikers Guide to Memory Benchmarks - 20th (Follow-up) Meeting 
+>The 20<sup>th<sup> follow-up meeting to distill the findings from the workshop into a paper "The SPP-hikers Guide to Memory Benchmarks" will be held on June 25, 2024. [more..]({{< relref "/posts/mini-workshop_2023_followup_meeting_20" >}})
+>
+>The details of the meeting will be shared with the participants of the [workshop]({{< relref "/posts/Mini-workshop_2023" >}}) via their registered email addresses.
+>
+>June 11
+
+>##### The SPP-hikers Guide to Memory Benchmarks - 19th (Follow-up) Meeting 
+>The 19<sup>th<sup> follow-up meeting to distill the findings from the workshop into a paper "The SPP-hikers Guide to Memory Benchmarks" will be held on June 11, 2024. [more..]({{< relref "/posts/mini-workshop_2023_followup_meeting_19" >}})
+>
+>The details of the meeting will be shared with the participants of the [workshop]({{< relref "/posts/Mini-workshop_2023" >}}) via their registered email addresses.
+>
+>May 28
+
 >##### The SPP-hikers Guide to Memory Benchmarks - 18th (Follow-up) Meeting 
 >The eighteenth follow-up meeting to distill the findings from the workshop into a paper "The SPP-hikers Guide to Memory Benchmarks" will be held on May 28, 2024. [more..]({{< relref "/posts/mini-workshop_2023_followup_meeting_18" >}})
 >
