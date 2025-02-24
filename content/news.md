@@ -13,10 +13,75 @@ menu:
     weight: 3
 ---
 
+#### 2025
+
+>##### The SPP-hikers Guide to Memory Benchmarks - 41st (Follow-up) Meeting 
+>The 41<sup>st</sup> follow-up meeting to distill the findings from the workshop into a paper "The SPP-hikers Guide to Memory Benchmarks" will be held on February 25, 2024. [more..]({{< relref "/posts/mini-workshop_2023_followup_meeting_41" >}})
+>
+>The details of the meeting will be shared with the participants of the [workshop]({{< relref "/posts/Mini-workshop_2023" >}}) via their registered email addresses.
+>
+>February 19
+
+>##### The SPP-hikers Guide to Memory Benchmarks - 40th (Follow-up) Meeting 
+>The 40<sup>th</sup> follow-up meeting to distill the findings from the workshop into a paper "The SPP-hikers Guide to Memory Benchmarks" will be held on February 18, 2024. [more..]({{< relref "/posts/mini-workshop_2023_followup_meeting_40" >}})
+>
+>The details of the meeting will be shared with the participants of the [workshop]({{< relref "/posts/Mini-workshop_2023" >}}) via their registered email addresses.
+>
+>February 12
+
+>##### The SPP-hikers Guide to Memory Benchmarks - 39th (Follow-up) Meeting 
+>The 39<sup>th</sup> follow-up meeting to distill the findings from the workshop into a paper "The SPP-hikers Guide to Memory Benchmarks" will be held on February 11, 2024. [more..]({{< relref "/posts/mini-workshop_2023_followup_meeting_39" >}})
+>
+>The details of the meeting will be shared with the participants of the [workshop]({{< relref "/posts/Mini-workshop_2023" >}}) via their registered email addresses.
+>
+>February 5
+
+>##### The SPP-hikers Guide to Memory Benchmarks - 38th (Follow-up) Meeting 
+>The 38<sup>th</sup> follow-up meeting to distill the findings from the workshop into a paper "The SPP-hikers Guide to Memory Benchmarks" will be held on February 4, 2024. [more..]({{< relref "/posts/mini-workshop_2023_followup_meeting_38" >}})
+>
+>The details of the meeting will be shared with the participants of the [workshop]({{< relref "/posts/Mini-workshop_2023" >}}) via their registered email addresses.
+>
+>February 1
+
+>##### The SPP-hikers Guide to Memory Benchmarks - 37th (Follow-up) Meeting 
+>The 37<sup>th</sup> follow-up meeting to distill the findings from the workshop into a paper "The SPP-hikers Guide to Memory Benchmarks" will be held on January 28, 2024. [more..]({{< relref "/posts/mini-workshop_2023_followup_meeting_37" >}})
+>
+>The details of the meeting will be shared with the participants of the [workshop]({{< relref "/posts/Mini-workshop_2023" >}}) via their registered email addresses.
+>
+>January 22
+
+>##### The SPP-hikers Guide to Memory Benchmarks - 36th (Follow-up) Meeting 
+>The 36<sup>th</sup> follow-up meeting to distill the findings from the workshop into a paper "The SPP-hikers Guide to Memory Benchmarks" will be held on January 21, 2024. [more..]({{< relref "/posts/mini-workshop_2023_followup_meeting_36" >}})
+>
+>The details of the meeting will be shared with the participants of the [workshop]({{< relref "/posts/Mini-workshop_2023" >}}) via their registered email addresses.
+>
+>January 6
+
+>##### The SPP-hikers Guide to Memory Benchmarks - 35th (Follow-up) Meeting 
+>The 35<sup>th</sup> follow-up meeting to distill the findings from the workshop into a paper "The SPP-hikers Guide to Memory Benchmarks" will be held on January 5, 2024. [more..]({{< relref "/posts/mini-workshop_2023_followup_meeting_35" >}})
+>
+>The details of the meeting will be shared with the participants of the [workshop]({{< relref "/posts/Mini-workshop_2023" >}}) via their registered email addresses.
+>
+>December 18
+
 #### 2024
 
+>##### The SPP-hikers Guide to Memory Benchmarks - 34th (Follow-up) Meeting 
+>The 34<sup>th</sup> follow-up meeting to distill the findings from the workshop into a paper "The SPP-hikers Guide to Memory Benchmarks" will be held on December 17, 2024. [more..]({{< relref "/posts/mini-workshop_2023_followup_meeting_34" >}})
+>
+>The details of the meeting will be shared with the participants of the [workshop]({{< relref "/posts/Mini-workshop_2023" >}}) via their registered email addresses.
+>
+>December 11
+
+>##### The SPP-hikers Guide to Memory Benchmarks - 33rd (Follow-up) Meeting 
+>The 33<sup>nd</sup> follow-up meeting to distill the findings from the workshop into a paper "The SPP-hikers Guide to Memory Benchmarks" will be held on December 10, 2024. [more..]({{< relref "/posts/mini-workshop_2023_followup_meeting_33" >}})
+>
+>The details of the meeting will be shared with the participants of the [workshop]({{< relref "/posts/Mini-workshop_2023" >}}) via their registered email addresses.
+>
+>December 4
+
 >##### The SPP-hikers Guide to Memory Benchmarks - 32nd (Follow-up) Meeting 
->The 32<sup>nd</sup> follow-up meeting to distill the findings from the workshop into a paper "The SPP-hikers Guide to Memory Benchmarks" will be held on December 10, 2024. [more..]({{< relref "/posts/mini-workshop_2023_followup_meeting_32" >}})
+>The 32<sup>nd</sup> follow-up meeting to distill the findings from the workshop into a paper "The SPP-hikers Guide to Memory Benchmarks" will be held on December 3, 2024. [more..]({{< relref "/posts/mini-workshop_2023_followup_meeting_32" >}})
 >
 >The details of the meeting will be shared with the participants of the [workshop]({{< relref "/posts/Mini-workshop_2023" >}}) via their registered email addresses.
 >
