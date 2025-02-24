@@ -8,7 +8,7 @@ tags:
   - "Workshops"
 ---
 
-Our 37<sup>th</sup> meeting to distill the findings from the workshop into a paper will be held on January 28, 2024.
+Our 37<sup>th</sup> meeting to distill the findings from the workshop into a paper will be held on January 28, 2025.
 
 The details of the meeting will be shared with the participants via their registered email addresses.
 
