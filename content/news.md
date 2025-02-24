@@ -22,6 +22,11 @@ menu:
 >
 >February 19
 
+>##### Our paper titled "**Poster: Embracing NVM: Optimizing B-epsilon-Tree Structures and Data Compression in Storage Engines**" has been accepted at the [Workshop on Novel Data Management Ideas on Heterogeneous Hardware Architectures (NoDMC), March 3 - 7, 2025 | Bamberg, Germany](https://[gvdb24.fernuni-hagen.de](https://btw2025.gi.de/) [more..]({{< relref "/#" >}})
+>
+>February 14
+
+Poster: Embracing NVM: Optimizing B\textsuperscript{$\epsilon$}-Tree Structures and Data Compression in Storage Engines
 >##### The SPP-hikers Guide to Memory Benchmarks - 40th (Follow-up) Meeting 
 >The 40<sup>th</sup> follow-up meeting to distill the findings from the workshop into a paper "The SPP-hikers Guide to Memory Benchmarks" will be held on February 18, 2025. [more..]({{< relref "/posts/mini-workshop_2023_followup_meeting_40" >}})
 >
