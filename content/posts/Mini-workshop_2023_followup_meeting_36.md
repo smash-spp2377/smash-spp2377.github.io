@@ -1,6 +1,6 @@
 ---
-title: "The SPP-hikers Guide to Memory Benchmarks - 32nd (Follow-up) Meeting"
-date: 2024-11-27T20:00:00+01:00
+title: "The SPP-hikers Guide to Memory Benchmarks - 36th (Follow-up) Meeting"
+date: 2025-1-8T20:00:00+01:00
 draft: false
 sidebar: false
 pager: false
@@ -8,7 +8,7 @@ tags:
   - "Workshops"
 ---
 
-Our 32<sup>nd</sup> meeting to distill the findings from the workshop into a paper will be held on December 3, 2024.
+Our 36<sup>th</sup> meeting to distill the findings from the workshop into a paper will be held on January 21, 2024.
 
 The details of the meeting will be shared with the participants via their registered email addresses.
 
