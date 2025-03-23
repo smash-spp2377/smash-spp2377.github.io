@@ -1,6 +1,6 @@
 ---
 title: "The SPP-hikers Guide to Memory Benchmarks - 42nd (Follow-up) Meeting"
-date: 2025-2-26T20:00:00+01:00
+date: 2025-02-26T20:00:00+01:00
 draft: false
 sidebar: false
 pager: false
