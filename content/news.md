@@ -19,6 +19,12 @@ menu:
 >
 >April 03
 
+>##### The SPP-hikers Guide to Memory Benchmarks - It's finally done, hurray!
+>With great pleasure, we have finally concluded our survey and finalized the paper. Congratulations to all members who contributed to this outstanding work!
+>We have submitted our manuscript, "**Charting the Benchmarking Landscape - A Survey of Benchmarks for Modern Memory Architecture**" for publication in "**ACM Computing Surveys**".
+>
+>March 13
+
 >##### The SPP-hikers Guide to Memory Benchmarks - 43rd (Follow-up) Meeting 
 >The 43<sup>rd</sup> follow-up meeting to distill the findings from the workshop into a paper "The SPP-hikers Guide to Memory Benchmarks" will be held on March 18, 2025. [more..]({{< relref "/posts/mini-workshop_2023_followup_meeting_43" >}})
 >
