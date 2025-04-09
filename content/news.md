@@ -15,6 +15,10 @@ menu:
 
 #### 2025
 
+>##### Our paper titled "**NVM in Data Storage: A Post-Optane Future**" has been accepted by [ACM Transactions on Storage for their Special Issue on Computational Storage](https://dl.acm.org/pb-assets/static_journal_pages/tos/pdf/CfP_TOS_Computational_Storage-1695836377353.pdf) [more..]({{< relref "/posts/ToS2025" >}})
+>
+>April 03
+
 >##### The SPP-hikers Guide to Memory Benchmarks - 43rd (Follow-up) Meeting 
 >The 43<sup>rd</sup> follow-up meeting to distill the findings from the workshop into a paper "The SPP-hikers Guide to Memory Benchmarks" will be held on March 18, 2025. [more..]({{< relref "/posts/mini-workshop_2023_followup_meeting_43" >}})
 >
