@@ -36,7 +36,7 @@ menu:
 >
 >February 19
 
->##### Our paper titled "**Poster: Embracing NVM: Optimizing B-epsilon-Tree Structures and Data Compression in Storage Engines**" has been accepted at the [Workshop on Novel Data Management Ideas on Heterogeneous Hardware Architectures (NoDMC), March 3 - 7, 2025 | Bamberg, Germany](https://btw2025.gi.de/) [more..]({{< relref "/#" >}})
+>##### Our paper titled "**Poster: Embracing NVM: Optimizing B-epsilon-Tree Structures and Data Compression in Storage Engines**" has been accepted at the [Workshop on Novel Data Management Ideas on Heterogeneous Hardware Architectures (NoDMC), March 3 - 7, 2025 | Bamberg, Germany](https://btw2025.gi.de/) [more..]({{< relref "/posts/Workshop_NoDMC25" >}})
 >
 >February 14
 
