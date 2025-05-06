@@ -1,6 +1,6 @@
 ---
 title: "Workshop NoDMC (BTW) 2025"
-date: 2024-02-14T12:16:16+01:00
+date: 2025-02-14T12:16:16+01:00
 draft: false
 sidebar: false
 pager: false
